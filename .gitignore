@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Données générées et Cache
+data/
+data/chroma_db/
+*.csv
+*.json
+!data/prompts.yaml
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
