@@ -94,8 +94,8 @@
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/imanelujen/OracleAiFastApi.git
-cd OracleAiFastApi
+git clone https://github.com/imanelujen/DbaAI.git
+cd DbaAI
 
 # 2. Créer environnement virtuel
 python -m venv venv
